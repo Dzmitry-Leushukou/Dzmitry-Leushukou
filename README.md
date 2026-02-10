@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A project for deploying Large Language Models (LLMs) within corporate infrastructures and personal C++ projects.<br><br>👯 I’m looking to collaborate on<br>Open-source C++ projects, especially in systems programming or high-performance computing..<br><br>💬 Ask me about<br>Python for AI, getting started with C++, or balancing work and university studies.<br><br>🏋️ My Sports Background<br>I've been doing competitive sports programming for 9 years.
+🔭 I’m currently working on<br>A project for deploying Large Language Models (LLMs) within corporate infrastructures and personal C++ projects.<br><br>👯 I’m looking to collaborate on<br>Open-source C++ projects, especially in systems programming or high-performance computing.<br><br>💬 Ask me about<br>Python for AI, getting started with C++, or balancing work and university studies.<br><br>🏋️ My Sports Background<br>I've been doing competitive sports programming for 9 years.
 
 
 ## 🌐 Socials:
